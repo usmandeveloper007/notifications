@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "569126850307",
+    "project_id": "notifications-76a90",
+    "storage_bucket": "notifications-76a90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:569126850307:android:032bdafddce8c9d2cf6336",
+        "android_client_info": {
+          "package_name": "usman.notification.notifications"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKSPRp2d_zskD1Oz69SWBjo-mkgFcncV0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
